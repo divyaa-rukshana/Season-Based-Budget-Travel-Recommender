@@ -1,0 +1,5 @@
+Vermont,90000,USA
+Kyoto,125000,Japan
+Bavaria,140000,Germany
+Seville,100000,Spain
+Prague,110000,Czech Republic

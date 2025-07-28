@@ -1,0 +1,5 @@
+Bali,95000,Indonesia
+Santorini,165000,Greece
+Banff,135000,Canada
+Barcelona,120000,Spain
+Queenstown,160000,New Zealand

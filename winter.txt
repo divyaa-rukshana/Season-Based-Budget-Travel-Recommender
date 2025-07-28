@@ -1,0 +1,5 @@
+Zermatt,210000,Switzerland
+Lapland,190000,Finland
+Shimla,60000,India
+Quebec City,95000,Canada
+Reykjavik,180000,Iceland

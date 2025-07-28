@@ -1,0 +1,5 @@
+Kyoto,125000,Japan
+Amsterdam,150000,Netherlands
+Washington D.C.,100000,USA
+Seoul,110000,South Korea
+Paris,145000,France
